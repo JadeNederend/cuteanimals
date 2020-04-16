@@ -9,10 +9,8 @@ body {
 .jumbotron {
     background-color: #FFBCBD;
 
-
 	color: white
-	font-family: 'Gotu', sans-serif
-;                         color: #FF4444;
+;   color: #FF4444;
     background-image: url(images/wallpaper.jpg);
     background-size: cover;
 }
@@ -43,6 +41,7 @@ body {
 		
 .card-body {
     background-color: #FFBCBD;
+    background-size: cover;
 }
 
 .btn-primary {
