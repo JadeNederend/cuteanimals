@@ -1,9 +1,51 @@
 @charset "utf-8";
 
 body {
-	background-color: #FFE5B4;
-		color: #FFA600; 
+    background-color: #FFF4A4;
+    color: #FF4444;
+    font-family: 'Gotu', sans-serif;
 }
-.meadow-background {
-	background-image: url("images/32-721_3.jpg")
+
+.jumbotron {
+    background-color: #FFBCBD;
+
+
+	color: white
+	font-family: 'Gotu', sans-serif
+;                         color: #FF4444;
+    background-image: url(images/wallpaper.jpg);
+    background-size: cover;
+}
+
+.my-navbar {
+    background-color: #FBA4A5;
+    font-family: 'Gotu', sans-serif;
+    color: #FF373A;
+    -webkit-box-shadow: 0px 0px #EA585A;
+    box-shadow: 0px 0px #EA585A;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F4FFB2;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    color: #F93D40;
+}
+
+.display-4 {
+	color: black;
+}
+
+.card-title {
+	color: black;
+}
+
+		
+.card-body {
+    background-color: #FFBCBD;
+}
+
+.btn-primary {
+	background-color: #FF373A;
+	color: white;
 }
